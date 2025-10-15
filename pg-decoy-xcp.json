@@ -1,8 +1,3 @@
-    {
-        "name": "25GB 5G 1 hari",
-        "price": "Rp0",
-        "detail": "Y55A: Yang 5G 5G Aja (kata XL)\nSupported payment: Balance.\nJangan di-overwrite.",
-        "packages": [
             {
                 "family_name": "5G, 25GB, 1 Day",
                 "family_code": "262e06ea-b9d8-46b2-bb9c-0d1dfaa38805",
@@ -11,20 +6,4 @@
                 "variant_code": "97997fdc-eddd-4acb-a8ce-6bf2501d078d",
                 "option_name": "97997fdc-eddd-4acb-a8ce-6bf2501d078d",
                 "order": 1
-            },
-            {
-                "family_name": "Xtra Combo Plus",
-                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
-                "option_name": "69GB",
-                "order": 19
             }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": true,
-        "overwrite_amount": -1,
-        "token_confirmation_idx": 0,
-        "amount_idx": -1
-    }
