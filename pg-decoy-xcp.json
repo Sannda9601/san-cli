@@ -1,82 +1,9 @@
 {
-  "addons": [],
-  "bonuses": [
-    {
-      "benefit_information": "",
-      "combo_icon_url": "",
-      "combo_title": "",
-      "dynamic_ribbon": "",
-      "family_name": "Kuota Aplikasi Xtra Combo Plus 6GB",
-      "from_mccm": false,
-      "icon_url": "https://rinjani.myxl.xlaxiata.co.id/media-xl/internet2x_6_1.png?VersionId=null",
-      "information": "\u200e ",
-      "name": "Kuota Malam 153MB",
-      "original_price": 0,
-      "original_price_gap": 0,
-      "package_option_code": "U0NfX7LXVk42aKJxdZbszwG2ilLWl-8nVxAddp7YcI7hnTCVRXNohHGZuPZWlyWmCfhoQWdS0cya_fXEXy4QzausfA",
-      "point": 0,
-      "price": 0,
-      "price_gap": 0,
-      "product_type": "",
-      "ribbon": "",
-      "usp": {
-        "benefits": [],
-        "title": ""
-      },
-      "validity": ""
-    },
-    {
-      "benefit_information": "",
-      "combo_icon_url": "",
-      "combo_title": "",
-      "dynamic_ribbon": "",
-      "family_name": "Kuota Aplikasi Xtra Combo Plus 6GB",
-      "from_mccm": false,
-      "icon_url": "https://rinjani.myxl.xlaxiata.co.id/media-xl/internet2x_6_1.png?VersionId=null",
-      "information": "\u200e ",
-      "name": "Kuota Utama 51MB",
-      "original_price": 0,
-      "original_price_gap": 0,
-      "package_option_code": "U0NfX_pU-K3Jvh0zd-4kdqRicad-rvObPQz0GEG8RM0VjrTebjU99LHLZb7pQQn_Vkhg3TA28aVRPDRqRwYXWUlA4w",
-      "point": 0,
-      "price": 0,
-      "price_gap": 0,
-      "product_type": "",
-      "ribbon": "",
-      "usp": {
-        "benefits": [],
-        "title": ""
-      },
-      "validity": ""
-    },
-    {
-      "benefit_information": "",
-      "combo_icon_url": "",
-      "combo_title": "",
-      "dynamic_ribbon": "",
-      "family_name": "Kuota Aplikasi Xtra Combo Plus 6GB",
-      "from_mccm": false,
-      "information": "\u200e ",
-      "name": "YouTube & Tiktok 128MB",
-      "original_price": 0,
-      "original_price_gap": 0,
-      "package_option_code": "U0NfX77dXNLr1pZGa5xSCOmSbUQOa0FVK4c302Dfnhj11aHSO2s9PtSdk8Dr6RH1PbGz86OIwFgrbpgKD7mS4ST6Mw",
-      "point": 0,
-      "price": 0,
-      "price_gap": 0,
-      "product_type": "",
-      "ribbon": "",
-      "usp": {
-        "benefits": [],
-        "title": ""
-      },
-      "validity": ""
-    }
-  ],
-  "force_to_hide_bonus": false,
-  "paid_bonuses": [],
-  "parent_code": "",
-  "upsell": []
+    "family_name": "XTRA Combo Plus (Gift)",
+    "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+    "is_enterprise": false,
+    "migration_type": "NONE",
+    "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+    "option_name": "VIP 102GB",
+    "order": 1
 }
-
-
