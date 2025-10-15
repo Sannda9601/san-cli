@@ -1,9 +1,14 @@
 {
-    "family_name": "XTRA Combo Plus (Gift)",
-    "family_code": "0895946e-d277-4218-914c-b663c09debf7",
-    "is_enterprise": false,
-    "migration_type": "NONE",
-    "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
-    "option_name": "VIP 102GB",
-    "order": 1
+  "is_transaction_routine": false,
+  "migration_type": "",
+  "package_family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+  "family_role_hub": "",
+  "is_autobuy": false,
+  "is_enterprise": false,
+  "is_shareable": false,
+  "is_migration": false,
+  "lang": "id",
+  "package_option_code": "U0NfX8Lp7T2Sk67xm-NZ2j4OEaeA2Eb8uYgAZReapiNCRCxoThh-aB4XDITv3j70MHrGdYptFrbVzxjmRWI0NqE",
+  "is_upsell_pdp": false,
+  "package_variant_code": "e5cd98bb-dd3b-40c5-8a0f-04d4a2ee0672"
 }
