@@ -1,9 +1,10 @@
-            {
-                "family_name": "Xtra Combo Plus",
-                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
-                "option_name": "69GB",
-                "order": 19
-            }
+{
+    "family_name": "XTRA Combo Plus (Gift)",
+    "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+    "is_enterprise": false,
+    "migration_type": "NONE",
+    "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+    "option_name": "VIP 102GB",
+    "order": 1
+}
+
