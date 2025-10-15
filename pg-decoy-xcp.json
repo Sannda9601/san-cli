@@ -1,8 +1,10 @@
     {
         "family_name": "XTRA Combo Plus (Gift)",
         "family_code": "0895946e-d277-4218-914c-b663c09debf7",
-        "is_enterprise": null,
+        "is_enterprise": false,
         "variant_name": "Reguler",
+        "migration_type": "NONE",
         "option_name": "14GB",
         "order": 5
     }
+
