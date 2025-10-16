@@ -120,6 +120,36 @@
         "amount_idx": -1
     },
     {
+        "name": "XCM-Test*",
+        "price": "Rp0",
+        "detail": "Membuat masa aktif menjadi 45 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance.\nJangan di-overwrite.\n\n*Bonus kuota bersama 50GB untuk kartu pengelola XL Satu Home/Fiber.",
+        "packages": [
+            {
+                "family_name": "Kuota Aplikasi Xtra Combo Plus 6GB",
+                "family_code": "5412b964-474e-42d3-9c86-f5692da627db",
+                "is_enterprise": null,
+                "variant_name": "Bonus Xtra Combo Plus 6GB",
+                "option_name": "TikTok 2GB",
+                "order": 2
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": true,
+        "overwrite_amount": -1,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    
+    {
         "name": "Refresh Add On Youtube 24GB (XC VIP Plus)",
         "price": "Rp1000 (refund)",
         "detail": "Hanya bisa dibeli kalau punya XC VIP Plus 75GB & ambil bonus addon Youtube.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XC VIP Plus.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
@@ -389,4 +419,5 @@
         "token_confirmation_idx": 0,
         "amount_idx": -1
     }
+
 ]
