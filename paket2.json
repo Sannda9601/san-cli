@@ -301,7 +301,7 @@
   },
   {
     "name": "BIZ Manufacture",
-    "price": "Rp 3500",
+    "price": "Rp 35000",
     "detail": "unlimited whatsapp line bizz",
     "packages": [
       {
@@ -329,5 +329,6 @@
     "amount_idx": -1
   }
 ]
+
 
 
