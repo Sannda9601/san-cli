@@ -23,13 +23,13 @@
                 "order": 6
             },
             {
-                "action_type": "PROMO",
-                "subtype": "AXISTRIAL",
-                "action_param": "80650dec-8515-4078-9f2e-487adf6a62fa",
-                "is_corporate": false,
-                "category": "XCF_PROMO_DETAIL",
-                "subcategory": ""
-      }
+                "family_name": "BIZ On",
+                "family_code": "fb1e4476-c9fe-4012-9907-3ccc65e4ba2b",
+                "is_enterprise": null,
+                "variant_name": "BIZ On",
+                "option_name": "BIZ On Maxima, Rp135,000",
+                "order": 1
+            }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
@@ -399,6 +399,7 @@
     }
 
 ]
+
 
 
 
