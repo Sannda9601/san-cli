@@ -1,9 +1,10 @@
 {
-    "family_name": "XTRA Combo Plus (Gift)",
-    "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+    "family_name": "Akrab",
+    "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
     "is_enterprise": false,
-    "migration_type": "NONE",
-    "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
-    "option_name": "VIP 102GB",
-    "order": 1
+    "variant_name": "Akrab",
+    "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
+    "option_name": "19GB for 2 Members",
+    "order": 8
 }
+
