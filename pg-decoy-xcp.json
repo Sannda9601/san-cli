@@ -1,9 +1,10 @@
 {
-    "family_name": "Kuota Bersama",
-    "family_code": "d018a3ad-172f-433c-b291-f574f4b6fbad",
+    "family_name": "Xtra Combo Plus",
+    "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
     "is_enterprise": false,
-    "variant_name": "Kuota Bersama",
-    "variant_code": "8a5965c2-d29c-48aa-8175-0ef53745d8fa",
-    "option_name": "Kuota HP Sekeluarga 50GB",
-    "order": 2
+    "migration_type": "NONE",
+    "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+    "option_name": "69GB",
+    "order": 19
 }
+
