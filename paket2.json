@@ -21,7 +21,15 @@
                 "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
                 "option_name": "Education 2GB",
                 "order": 6
-            }
+            },
+            {
+                "action_type": "PROMO",
+                "subtype": "AXISTRIAL",
+                "action_param": "80650dec-8515-4078-9f2e-487adf6a62fa",
+                "is_corporate": false,
+                "category": "XCF_PROMO_DETAIL",
+                "subcategory": ""
+      }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
@@ -391,5 +399,6 @@
     }
 
 ]
+
 
 
