@@ -330,6 +330,36 @@
         "amount_idx": -1
     },
     {
+        "name": "Bundling Xtra Combo 5GB+5GB & Unlimited Turbo Premium",
+        "price": "Rp50000",
+        "detail": "Supported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special dikotamu",
+                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+                "option_name": "Bundling Xtra Combo 5GB+5GB & Unlimited Turbo Premium",
+                "order": 163
+            },
+            {
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "variant_name": "Work & School",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "Education 2GB",
+                "order": 6
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 50000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
         "name": "BIZ Manufacture",
         "price": "Rp 35000",
         "detail": "unlimited whatsapp line bizz",
@@ -359,3 +389,4 @@
         "amount_idx": -1
     }
 ]
+
