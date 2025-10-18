@@ -390,8 +390,8 @@
         "amount_idx": -1
     },
     {
-        "name": "Xtra Unlimited Turbo Movie Booster (Iflix)",
-        "price": "Rp8000",
+        "name": "test - Xtra Unlimited Turbo Movie Booster (Iflix)",
+        "price": "Rp6000",
         "detail": "Unlimited App productivity mirip biz.\nSupported payment: QRIS",
         "packages": [
             {
@@ -415,7 +415,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 8000,
+        "overwrite_amount": 6000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -449,3 +449,4 @@
         "amount_idx": -1
     }
 ]
+
