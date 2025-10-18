@@ -461,8 +461,8 @@
                 "is_enterprise": false,
                 "variant_name": "For Xtra Combo",
                 "variant_code": "1729cd22-4f7a-44ba-898e-a157ee827220",
-                "option_name": "Super",
-                "order": 2
+                "option_name": "TikTok",
+                "order": 6
             },
             {
                 "family_name": "Work & School",
@@ -481,3 +481,4 @@
         "amount_idx": -1
     }
 ]
+
