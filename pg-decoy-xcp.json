@@ -1,13 +1,10 @@
 {
-	"family_name": "",
-	"family_code": "0895946e-d277-4218-914c-b663c09debf7",
-	"is_enterprise": false,
+    "family_name": "Work & School",
+    "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+    "is_enterprise": false,
 	"migration_type": "NONE",
-	"variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
-	"option_name": "",
-	"order": 5
+    "variant_name": "Work & School",
+    "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+    "option_name": "Education 2GB",
+    "order": 6
 }
-
-
-
-
