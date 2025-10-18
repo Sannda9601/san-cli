@@ -464,7 +464,7 @@
                 "option_name": "Super",
                 "order": 2
             },
-            {            {
+            {
                 "family_name": "Work & School",
                 "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
                 "is_enterprise": false,
@@ -481,4 +481,3 @@
         "amount_idx": -1
     }
 ]
-
