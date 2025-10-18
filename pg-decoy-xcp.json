@@ -1,11 +1,10 @@
 {
-    "family_name": "Work & School",
-    "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+    "family_name": "Bebas Puas",
+    "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
     "is_enterprise": false,
 	"migration_type": "NONE",
-    "variant_name": "Work & School",
-    "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-    "option_name": "Education 2GB",
-    "order": 6
+    "variant_name": "8.000/hari",
+    "option_name": "5.52GB",
+    "order": 1
 }
 
