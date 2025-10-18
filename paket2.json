@@ -390,7 +390,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Xtra Unlimited Turbo Basic test (add on)",
+        "name": "coba aja - Xtra Unlimited Turbo Basic test",
         "price": "Rp34000",
         "detail": "testing beli paket addon.\nSupported payment: E-wallet",
         "packages": [
@@ -451,4 +451,5 @@
         "amount_idx": -1
     }
 ]
+
 
