@@ -1,13 +1,13 @@
 {
-    "family_name": "Bebas Puas",
-    "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
-    "is_enterprise": false,
+	"family_name": "",
+	"family_code": "0895946e-d277-4218-914c-b663c09debf7",
+	"is_enterprise": false,
 	"migration_type": "NONE",
-    "variant_name": "8.000/hari",
-	"variant_code": "e5cd98bb-dd3b-40c5-8a0f-04d4a2ee0672",
-    "option_name": "5.52GB",
-    "order": 1
+	"variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+	"option_name": "",
+	"order": 5
 }
+
 
 
 
