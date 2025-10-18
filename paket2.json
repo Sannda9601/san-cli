@@ -369,23 +369,24 @@
                 "family_code": "ebdb4ebe-cb58-4e55-927b-8f1bba44b5a6",
                 "is_enterprise": false,
                 "variant_name": "BIZ Optimus",
+                "migration_type": "NONE",
                 "variant_code": "89179bda-0274-42d6-88ea-c3899774a676",
                 "option_name": "BIZ Optimus 150GB",
                 "order": 4
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 1000,
+        "overwrite_amount": -1,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -419,3 +420,4 @@
         "amount_idx": -1
     }
 ]
+
