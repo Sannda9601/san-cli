@@ -451,9 +451,9 @@
         "amount_idx": -1
     },
     {
-        "name": "Xtra Combo Plus - standard",
-        "price": "Rp1000",
-        "detail": "Test beli xuts.\nSupported payment: Balance.\nJangan di-overwrite.",
+        "name": "Unlimited Turbo xuts",
+        "price": "Rp1000 (refund)",
+        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "Unlimited Turbo",
