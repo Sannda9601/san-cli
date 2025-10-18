@@ -401,6 +401,8 @@
                 "variant_name": "For Xtra Combo",
                 "variant_code": "1729cd22-4f7a-44ba-898e-a157ee827220",
                 "option_name": "Basic",
+                "bonuses": false,
+                "paid_bonuses": false,
                 "order": 4
             },
             {
@@ -415,11 +417,9 @@
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 34000,
-        "token_confirmation_idx": 0,
-        "amount_idx": -1,
-        "bonuses": null,
-        "paid_bonuses": null
+        "overwrite_amount": 26000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
     },
     {
         "name": "BIZ Manufacture",
@@ -451,3 +451,4 @@
         "amount_idx": -1
     }
 ]
+
