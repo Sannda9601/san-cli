@@ -416,7 +416,7 @@
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": true,
         "overwrite_amount": -1,
-        "token_confirmation_idx": 1,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     },
     {
@@ -449,6 +449,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
