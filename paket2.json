@@ -390,8 +390,8 @@
         "amount_idx": -1
     },
     {
-        "name": "38000 Xtra Unlimited Turbo (iflix)",
-        "price": "Rp38000",
+        "name": "test - Xtra Unlimited Turbo (iflix)",
+        "price": "Rp5000",
         "detail": "Test purchase: E-wallet",
         "packages": [
             {
@@ -415,8 +415,8 @@
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 38000,
-        "token_confirmation_idx": 0,
+        "overwrite_amount": 5000,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
@@ -449,6 +449,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
