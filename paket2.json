@@ -390,18 +390,18 @@
         "amount_idx": -1
     },
     {
-        "name": "(test)Bundling Xtra Combo 1GB+1GB & Xtra Unlimited Turbo Basic",
-        "price": "Rp26000",
-        "detail": "Ragumu rugimu.\nSupported payment: E-wallet & QRIS.",
+        "name": "XTRA Combo Plus (Gift) - unlimited productivity",
+        "price": "Rp62500",
+        "detail": "Unlimited App productivity mirip biz.\nSupported payment: E-wallet",
         "packages": [
             {
-                "family_name": "Special dikotamu",
-                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
                 "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
-                "option_name": "Bundling Xtra Combo 1GB+1GB & Xtra Unlimited Turbo Basic",
-                "order": 155
+                "variant_name": "Reguler",
+                "variant_code": "590056ce-4578-40cd-afce-fb9729620ca2",
+                "option_name": "14GB",
+                "order": 5
             },
             {
                 "family_name": "Work & School",
@@ -415,7 +415,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": true,
-        "overwrite_amount": -1,
+        "overwrite_amount": 62500,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -449,15 +449,3 @@
         "amount_idx": -1
     }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
