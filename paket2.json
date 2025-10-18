@@ -360,6 +360,36 @@
         "amount_idx": -1
     },
     {
+        "name": "BIZ Optimus*",
+        "price": "Rp0",
+        "detail": "support type balance (uji coba)",
+        "packages": [
+            {
+                "family_name": "BIZ Optimus",
+                "family_code": "ebdb4ebe-cb58-4e55-927b-8f1bba44b5a6",
+                "is_enterprise": null,
+                "variant_name": "BIZ Optimus",
+                "variant_code": "89179bda-0274-42d6-88ea-c3899774a676",
+                "option_name": "BIZ Optimus 150GB",
+                "order": 4
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": true,
+        "overwrite_amount": -1,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
         "name": "BIZ Manufacture",
         "price": "Rp 35000",
         "detail": "unlimited whatsapp line bizz",
@@ -389,4 +419,5 @@
         "amount_idx": -1
     }
 ]
+
 
