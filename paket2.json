@@ -451,9 +451,9 @@
         "amount_idx": -1
     },
     {
-        "name": "Unlimited Turbo tiktoks",
-        "price": "Rp1000 (refund)",
-        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
+        "name": "Unlimited tiktok",
+        "price": "Rp31000 (refund)",
+        "detail": "test buy xuts tiktoks.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "Unlimited Turbo",
@@ -481,6 +481,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
