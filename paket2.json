@@ -330,7 +330,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Bundling Xtra Combo 5GB+5GB & Unlimited Turbo Premium",
+        "name": "Bundling Xtra Combo 15GB+15GB & Unlimited Turbo Basic",
         "price": "Rp26000",
         "detail": "Supported payment: E-wallet & QRIS.",
         "packages": [
@@ -340,8 +340,8 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
-                "option_name": "Bundling Xtra Combo 5GB+5GB & Unlimited Turbo Premium",
-                "order": 163
+                "option_name": "Bundling Xtra Combo 15GB+15GB & Unlimited Turbo Basic",
+                "order": 152
             },
             {
                 "family_name": "Work & School",
@@ -419,6 +419,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
