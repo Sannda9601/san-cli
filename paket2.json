@@ -368,6 +368,7 @@
                 "family_name": "BIZ Optimus",
                 "family_code": "ebdb4ebe-cb58-4e55-927b-8f1bba44b5a6",
                 "is_enterprise": false,
+                "migration_type": "NONE",
                 "variant_name": "BIZ Optimus",
                 "variant_code": "89179bda-0274-42d6-88ea-c3899774a676",
                 "option_name": "BIZ Optimus 150GB",
@@ -419,6 +420,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
