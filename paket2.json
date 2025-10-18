@@ -331,7 +331,7 @@
     },
     {
         "name": "Bundling Xtra Combo 5GB+5GB & Unlimited Turbo Premium",
-        "price": "Rp50000",
+        "price": "Rp26000",
         "detail": "Supported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -355,7 +355,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 50000,
+        "overwrite_amount": 26000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
@@ -419,6 +419,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
