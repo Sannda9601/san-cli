@@ -391,7 +391,7 @@
     },
     {
         "name": "(Test Iflix)Xtra Unlimited Turbo Movie Booster",
-        "price": "Rp7000",
+        "price": "Rp6000",
         "detail": "Unlimited App productivity mirip biz.\nSupported payment: E-wallet",
         "packages": [
             {
@@ -415,7 +415,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 7000,
+        "overwrite_amount": 6000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -449,5 +449,6 @@
         "amount_idx": -1
     }
 ]
+
 
 
