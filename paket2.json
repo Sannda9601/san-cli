@@ -449,10 +449,35 @@
         "overwrite_amount": 35000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
+    },
+    {
+        "name": "Xtra Combo Plus",
+        "price": "Rp0",
+        "detail": "Test beli xuts.\nSupported payment: Balance.\nJangan di-overwrite.",
+        "packages": [
+            {
+                "family_name": "Unlimited Turbo",
+                "family_code": "08a3b1e6-8e78-4e45-a540-b40f06871cfe",
+                "is_enterprise": false,
+                "variant_name": "For Xtra Combo",
+                "variant_code": "1729cd22-4f7a-44ba-898e-a157ee827220",
+                "option_name": "Super",
+                "order": 2
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": true,
+        "overwrite_amount": 75000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
     }
 ]
-
-
-
-
-
