@@ -391,18 +391,9 @@
     },
     {
         "name": "Xtra Unlimited Turbo (iflix)",
-        "price": "Rp8000",
-        "detail": "Unlimited App productivity mirip biz.\nSupported payment: E-wallet",
+        "price": "Rp38000",
+        "detail": "Test purchase: E-wallet",
         "packages": [
-            {
-                "family_name": "XTRA Unlimited Turbo",
-                "family_code": "9f4629df-b411-463d-aa84-bf019b2f0341",
-                "is_enterprise": false,
-                "variant_name": "Xtra Unlimited Turbo Movie Booster",
-                "option_name": "iFlix",
-                "variant_code": "887d2431-b4fc-42f1-9211-95997af88dbd",
-                "order": 1
-            },
             {
                 "family_name": "Unlimited Turbo",
                 "family_code": "08a3b1e6-8e78-4e45-a540-b40f06871cfe",
@@ -411,11 +402,20 @@
                 "variant_code": "1729cd22-4f7a-44ba-898e-a157ee827220",
                 "option_name": "Basic",
                 "order": 4
+            },
+            {
+                "family_name": "XTRA Unlimited Turbo",
+                "family_code": "9f4629df-b411-463d-aa84-bf019b2f0341",
+                "is_enterprise": false,
+                "variant_name": "Xtra Unlimited Turbo Movie Booster",
+                "option_name": "iFlix",
+                "variant_code": "887d2431-b4fc-42f1-9211-95997af88dbd",
+                "order": 1
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 8000,
+        "overwrite_amount": 38000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -449,5 +449,6 @@
         "amount_idx": -1
     }
 ]
+
 
 
