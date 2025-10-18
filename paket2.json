@@ -361,13 +361,13 @@
     },
     {
         "name": "BIZ Optimus*",
-        "price": "Rp0",
+        "price": "Rp1000",
         "detail": "support type balance (uji coba)",
         "packages": [
             {
                 "family_name": "BIZ Optimus",
                 "family_code": "ebdb4ebe-cb58-4e55-927b-8f1bba44b5a6",
-                "is_enterprise": null,
+                "is_enterprise": false,
                 "variant_name": "BIZ Optimus",
                 "variant_code": "89179bda-0274-42d6-88ea-c3899774a676",
                 "option_name": "BIZ Optimus 150GB",
@@ -384,7 +384,7 @@
             }
         ],
         "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": true,
+        "ask_overwrite": false,
         "overwrite_amount": 1000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
@@ -419,6 +419,3 @@
         "amount_idx": -1
     }
 ]
-
-
-
