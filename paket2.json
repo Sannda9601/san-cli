@@ -330,8 +330,8 @@
         "amount_idx": -1
     },
     {
-        "name": "Bundling Xtra Combo 20GB+20GB & Unlimited Turbo Basic",
-        "price": "Rp60000",
+        "name": "(test)Bundling Xtra Combo 20GB+20GB & Unlimited Turbo Basic",
+        "price": "Rp2000",
         "detail": "Supported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -449,6 +449,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
