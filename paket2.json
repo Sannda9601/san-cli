@@ -389,7 +389,6 @@
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
-
     {
         "name": "(test)Bundling Xtra Combo 1GB+1GB & Xtra Unlimited Turbo Basic",
         "price": "Rp26000",
@@ -415,7 +414,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
+        "ask_overwrite": true,
         "overwrite_amount": -1,
         "token_confirmation_idx": 1,
         "amount_idx": -1
@@ -450,6 +449,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
