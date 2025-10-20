@@ -420,7 +420,7 @@
     },
     {
         "name": "Unlimited Turbo Basic (Fix 33k)",
-        "price": "Rp33000",
+        "price": "Rp34000",
         "detail": "Supported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -431,6 +431,7 @@
                 "variant_name": "For Xtra Combo",
                 "variant_code": "1729cd22-4f7a-44ba-898e-a157ee827220",
                 "option_name": "Basic",
+                "item_code": "U0NfX6stR5n2GoHw5EAxepmA9Cm0TpFFLIOXq1NzZcKiV-QRTW-8xkE-MqLWVtl-YI-e_vQYA9uhBXRYG1z93TBsQHz7R7YSV9wC2nntmhukVHVfrrsYDlWYHTcKcEEGiImH8mNx5WMBRaKJcKXGwZ0naGxkvJc--tb-t5CLvtMVNiSjtUTV_UQ",
                 "order": 4
             },
             {
@@ -446,7 +447,7 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 34000,
-        "token_confirmation_idx": 1,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     },
     {
