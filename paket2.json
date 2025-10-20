@@ -449,7 +449,6 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
-
     {
         "name": "Bundling Xtra Combo 5GB+5GB & Unlimited Turbo Super",
         "price": "Rp26000",
@@ -480,7 +479,6 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
-
     {
         "name": "Bundling Xtra Combo 10GB+10GB & Unlimited Turbo Premium",
         "price": "Rp26000",
@@ -511,7 +509,6 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
-
     {
         "name": "Bundling Xtra Combo 10GB+10GB & Unlimited Turbo Standard",
         "price": "Rp26000",
@@ -645,6 +642,216 @@
                 "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
                 "option_name": "Bundling Xtra Combo 20GB+20GB & Unlimited Turbo Basic",
                 "order": 156
+            },
+            {
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "variant_name": "Work & School",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "Education 2GB",
+                "order": 6
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 26000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bundling Xtra Combo 20GB+20GB & Unlimited Turbo Premium",
+        "price": "Rp26000",
+        "detail": "Supported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special dikotamu",
+                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+                "option_name": "Bundling Xtra Combo 20GB+20GB & Unlimited Turbo Premium",
+                "order": 157
+            },
+            {
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "variant_name": "Work & School",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "Education 2GB",
+                "order": 6
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 26000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bundling Xtra Combo 20GB+20GB & Unlimited Turbo Standard",
+        "price": "Rp26000",
+        "detail": "Supported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special dikotamu",
+                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+                "option_name": "Bundling Xtra Combo 20GB+20GB & Unlimited Turbo Standard",
+                "order": 158
+            },
+            {
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "variant_name": "Work & School",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "Education 2GB",
+                "order": 6
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 26000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
+        "price": "Rp26000",
+        "detail": "Supported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special dikotamu",
+                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+                "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
+                "order": 159
+            },
+            {
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "variant_name": "Work & School",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "Education 2GB",
+                "order": 6
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 26000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bundling Xtra Combo 35GB+35GB & Unlimited Turbo Basic",
+        "price": "Rp26000",
+        "detail": "Supported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special dikotamu",
+                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+                "option_name": "Bundling Xtra Combo 35GB+35GB & Unlimited Turbo Basic",
+                "order": 160
+            },
+            {
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "variant_name": "Work & School",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "Education 2GB",
+                "order": 6
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 26000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bundling Xtra Combo 35GB+35GB & Unlimited Turbo Premium",
+        "price": "Rp26000",
+        "detail": "Supported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special dikotamu",
+                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+                "option_name": "Bundling Xtra Combo 35GB+35GB & Unlimited Turbo Premium",
+                "order": 161
+            },
+            {
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "variant_name": "Work & School",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "Education 2GB",
+                "order": 6
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 26000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bundling Xtra Combo 35GB+35GB & Unlimited Turbo Standard",
+        "price": "Rp26000",
+        "detail": "Supported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special dikotamu",
+                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+                "option_name": "Bundling Xtra Combo 35GB+35GB & Unlimited Turbo Standard",
+                "order": 162
+            },
+            {
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "variant_name": "Work & School",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "Education 2GB",
+                "order": 6
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 26000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bundling Xtra Combo 5GB+5GB & Unlimited Turbo Premium",
+        "price": "Rp26000",
+        "detail": "Supported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special dikotamu",
+                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+                "option_name": "Bundling Xtra Combo 5GB+5GB & Unlimited Turbo Premium",
+                "order": 163
             },
             {
                 "family_name": "Work & School",
