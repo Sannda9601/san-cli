@@ -539,7 +539,6 @@
         "amount_idx": -1
     },
 
-
     {
         "name": "XTRA Combo Plus (Gift)",
         "price": "testing",
@@ -553,6 +552,186 @@
                 "variant_code": "df0ac3ee-d810-42bb-820e-961e8c3bb6bc",
                 "option_name": "Bonus Aktivasi Fresh Imei",
                 "order": 66
+            },
+            {
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "variant_name": "VIP",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "VIP 102GB",
+                "order": 1
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 257000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bonus Aktivasi 2",
+        "price": "testing",
+        "detail": "Supported payment: balance.",
+        "packages": [
+            {
+                "family_name": "Bonus Activation",
+                "family_code": "0069ab97-3e54-41ef-87ea-807621d1922c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "df0ac3ee-d810-42bb-820e-961e8c3bb6bc",
+                "option_name": "Bonus Aktivasi",
+                "order": 2
+            },
+            {
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "variant_name": "VIP",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "VIP 102GB",
+                "order": 1
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 257000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bonus Aktivasi M4",
+        "price": "testing",
+        "detail": "Supported payment: balance.",
+        "packages": [
+            {
+                "family_name": "Bonus Activation",
+                "family_code": "0069ab97-3e54-41ef-87ea-807621d1922c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "df0ac3ee-d810-42bb-820e-961e8c3bb6bc",
+                "option_name": "Bonus Aktivasi M4",
+                "order": 54
+            },
+            {
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "variant_name": "VIP",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "VIP 102GB",
+                "order": 1
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 257000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bonus Aktivasi M3",
+        "price": "testing",
+        "detail": "Supported payment: balance.",
+        "packages": [
+            {
+                "family_name": "Bonus Activation",
+                "family_code": "0069ab97-3e54-41ef-87ea-807621d1922c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "df0ac3ee-d810-42bb-820e-961e8c3bb6bc",
+                "option_name": "Bonus Aktivasi M3",
+                "order": 55
+            },
+            {
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "variant_name": "VIP",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "VIP 102GB",
+                "order": 1
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 257000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bonus Aktivasi M2",
+        "price": "testing",
+        "detail": "Supported payment: balance.",
+        "packages": [
+            {
+                "family_name": "Bonus Activation",
+                "family_code": "0069ab97-3e54-41ef-87ea-807621d1922c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "df0ac3ee-d810-42bb-820e-961e8c3bb6bc",
+                "option_name": "Bonus Aktivasi M2",
+                "order": 56
+            },
+            {
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "variant_name": "VIP",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "VIP 102GB",
+                "order": 1
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 257000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bonus Aktivasi M4",
+        "price": "testing",
+        "detail": "Supported payment: balance.",
+        "packages": [
+            {
+                "family_name": "Bonus Activation",
+                "family_code": "0069ab97-3e54-41ef-87ea-807621d1922c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "df0ac3ee-d810-42bb-820e-961e8c3bb6bc",
+                "option_name": "Bonus Aktivasi M4",
+                "order": 58
+            },
+            {
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "variant_name": "VIP",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "VIP 102GB",
+                "order": 1
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 257000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Activation Bonus",
+        "price": "testing",
+        "detail": "Supported payment: balance.",
+        "packages": [
+            {
+                "family_name": "Bonus Activation",
+                "family_code": "0069ab97-3e54-41ef-87ea-807621d1922c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "df0ac3ee-d810-42bb-820e-961e8c3bb6bc",
+                "option_name": "Activation Bonus",
+                "order": 124
             },
             {
                 "family_name": "XTRA Combo Plus (Gift)",
