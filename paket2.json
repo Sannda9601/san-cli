@@ -602,7 +602,7 @@
     },
     {
         "name": "myPRIO Gold X 1bln",
-        "price": "Rp 94000",
+        "price": "Rp 96000",
         "detail": "Hyfe trial Fup 5GB masa aktif 7 hari. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
         "packages": [
             {
@@ -626,8 +626,9 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 94000,
+        "overwrite_amount": 96000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     }
 ]
+
