@@ -604,7 +604,7 @@
     },
     {
         "name": "XTRA Combo 1GB+1GB",
-        "price": "testing",
+        "price": "fetching paket",
         "detail": "Supported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -633,8 +633,8 @@
         "amount_idx": -1
     },
     {
-        "name": "XTRA Combo 0GB+0GB",
-        "price": "Rp24000",
+        "name": "Xtra Combo 8GB 59rb",
+        "price": "fetching paket",
         "detail": "Supported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -643,8 +643,8 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
-                "option_name": "XTRA Combo 0GB+0GB",
-                "order": 1
+                "option_name": "Xtra Combo 8GB 59rb",
+                "order": 50
             },
             {
                 "family_name": "Work & School",
@@ -663,5 +663,6 @@
         "amount_idx": -1
     }
 ]
+
 
 
