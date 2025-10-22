@@ -570,51 +570,19 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
-
-
-        {
-        "name": "Bundle XL PASS 30hr & XTRA Combo 5GB+5GB",
-        "price": "fetching paket",
-        "detail": "Supported payment: E-wallet & QRIS.",
-        "packages": [
-            {
-                "family_name": "Special dikotamu",
-                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
-                "option_name": "Bundle XL PASS 30hr & XTRA Combo 5GB+5GB",
-                "order": 145
-            },
-            {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
-                "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 24000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
     {
-        "name": "XTRA Combo 1GB+1GB",
-        "price": "fetching paket",
-        "detail": "Supported payment: E-wallet & QRIS.",
+        "name": "Xtra Unlimited Turbo Movie Booster (iflix)",
+        "price": "Rp1000 (refund)",
+        "detail": "testing bonus iflix.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XC VIP Plus.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Special dikotamu",
-                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+                "family_name": "XTRA Unlimited Turbo",
+                "family_code": "9f4629df-b411-463d-aa84-bf019b2f0341",
                 "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
-                "option_name": "XTRA Combo 1GB+1GB",
-                "order":  122
+                "variant_name": "Xtra Unlimited Turbo Movie Booster",
+                "variant_code": "887d2431-b4fc-42f1-9211-95997af88dbd",
+                "option_name": "iFlix",
+                "order": 1
             },
             {
                 "family_name": "Work & School",
@@ -626,43 +594,10 @@
                 "order": 6
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 24000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Xtra Combo 8GB 59rb",
-        "price": "fetching paket",
-        "detail": "Supported payment: E-wallet & QRIS.",
-        "packages": [
-            {
-                "family_name": "Special dikotamu",
-                "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
-                "option_name": "Xtra Combo 8GB 59rb",
-                "order": 50
-            },
-            {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
-                "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 24000,
-        "token_confirmation_idx": 1,
+        "overwrite_amount": 6000,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     }
 ]
-
-
-
