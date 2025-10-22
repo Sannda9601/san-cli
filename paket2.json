@@ -633,7 +633,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Xtra Combo Lite M",
+        "name": "XTRA Combo 0GB+0GB",
         "price": "Rp24000",
         "detail": "Supported payment: E-wallet & QRIS.",
         "packages": [
@@ -643,8 +643,8 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
-                "option_name": "Xtra Combo Lite M",
-                "order": 34
+                "option_name": "XTRA Combo 0GB+0GB",
+                "order": 1
             },
             {
                 "family_name": "Work & School",
@@ -663,4 +663,5 @@
         "amount_idx": -1
     }
 ]
+
 
