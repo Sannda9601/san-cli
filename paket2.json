@@ -601,7 +601,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Silver Monitoring",
+        "name": "Silver Monitoring (test)",
         "price": "Rp 0",
         "detail": "Hyfe trial Fup 5GB masa aktif 7 hari. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
         "packages": [
@@ -631,4 +631,5 @@
         "amount_idx": -1
     }
 ]
+
 
