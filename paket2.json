@@ -601,7 +601,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Silver Monitoring (test)",
+        "name": "myPRIO Gold X 1bln",
         "price": "Rp 0",
         "detail": "Hyfe trial Fup 5GB masa aktif 7 hari. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
         "packages": [
@@ -611,8 +611,8 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
-                "option_name": "Silver Monitoring",
-                "order": 28
+                "option_name": "myPRIO Gold X 1bln",
+                "order": 62
             },
             {
                 "family_name": "",
@@ -631,5 +631,6 @@
         "amount_idx": -1
     }
 ]
+
 
 
