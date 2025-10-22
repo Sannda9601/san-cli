@@ -621,13 +621,14 @@
                 "migration_type": "NONE",
                 "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
                 "option_name": "",
-                "order": 10
+                "order": 4
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 61500,
+        "overwrite_amount": 102000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     }
 ]
+
