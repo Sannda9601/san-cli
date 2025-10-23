@@ -419,7 +419,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Unlimited Turbo Basic (for Test)",
+        "name": "Unlimited Turbo Basic TEST(For-Test)",
         "price": "Rp0",
         "detail": "Supported payment: E-wallet & QRIS.",
         "packages": [
@@ -631,6 +631,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
