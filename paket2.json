@@ -419,8 +419,8 @@
         "amount_idx": -1
     },
     {
-        "name": "Unlimited Turbo Basic (Fix 33k)",
-        "price": "Rp34000",
+        "name": "Unlimited Turbo Basic (Test)",
+        "price": "Rp1000",
         "detail": "Supported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -446,8 +446,8 @@
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 34000,
-        "token_confirmation_idx": 0,
+        "overwrite_amount": 1000,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
@@ -631,3 +631,4 @@
         "amount_idx": -1
     }
 ]
+
