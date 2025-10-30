@@ -998,7 +998,7 @@
         "amount_idx": -1
     },
         {
-        "name": "Edu Biz Rp10 (test-PULSA)",
+        "name": "Edu Biz Rp10 (PULSA)",
         "price": "Rp10",
         "detail": "test paket edu rp10, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
         "packages": [
@@ -1010,8 +1010,7 @@
                 "variant_name": "EduConference",
                 "variant_code": "f7e3e547-b6a3-4de3-83fd-05fce842e943",
                 "option_name": "EduConference 30GB, Rp.10",
-                "order": 1,
-                "price": 10
+                "order": 1
             },
             {
                 "family_name": "",
@@ -1030,7 +1029,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Edu Biz Rp10 (test-QRIS)",
+        "name": "Edu Biz Rp10 (QRIS)",
         "price": "Rp10",
         "detail": "test paket edu rp10, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
         "packages": [
@@ -1042,8 +1041,7 @@
                 "variant_name": "EduConference",
                 "variant_code": "f7e3e547-b6a3-4de3-83fd-05fce842e943",
                 "option_name": "EduConference 30GB, Rp.10",
-                "order": 1,
-                "price": 10
+                "order": 1
             },
             {
                 "family_name": "QRIS D 0",
@@ -1062,6 +1060,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
