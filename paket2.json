@@ -997,7 +997,7 @@
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
-        {
+    {
         "name": "Edu Biz Rp10 (PULSA1)",
         "price": "Rp10",
         "detail": "test paket edu rp10, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
@@ -1060,8 +1060,3 @@
         "amount_idx": -1
     }
 ]
-
-
-
-
-
