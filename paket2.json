@@ -72,7 +72,38 @@
                 "variant_name": "Kuota Bersama",
                 "variant_code": "8a5965c2-d29c-48aa-8175-0ef53745d8fa",
                 "option_name": "Kuota HP Sekeluarga 50GB",
-                "order": 2
+                "order": 6
+            },
+            {
+                "family_name": "",
+                "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
+                "option_name": "",
+                "order": 1
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 889750,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "Masa Aktif 30 Hari + 20GB kuota bersama*",
+        "price": "Rp0",
+        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance.\nJangan di-overwrite.\n\n*Bonus kuota bersama 20GB untuk kartu pengelola XL Satu Home/Fiber.",
+        "packages": [
+            {
+                "family_name": "Kuota Bersama",
+                "family_code": "d018a3ad-172f-433c-b291-f574f4b6fbad",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Kuota Bersama",
+                "variant_code": "8a5965c2-d29c-48aa-8175-0ef53745d8fa",
+                "option_name": "20GB",
+                "order": 6
             },
             {
                 "family_name": "",
@@ -967,4 +998,3 @@
         "amount_idx": -1
     }
 ]
-
