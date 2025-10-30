@@ -30,7 +30,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Masa Aktif 45 Hari + 50GB*",
+        "name": "Masa Aktif 45 Hari + 50GB* (coid)",
         "price": "Rp1000 (refund)",
         "detail": "Membuat masa aktif menjadi 45 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.\n\n*Bonus kuota bersama 50GB untuk kartu pengelola XL Satu Home/Fiber.",
         "packages": [
@@ -60,7 +60,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Masa Aktif 45 Hari + 50GB*",
+        "name": "Masa Aktif 45 Hari + 50GB* (coid)",
         "price": "Rp0",
         "detail": "Membuat masa aktif menjadi 45 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance.\nJangan di-overwrite.\n\n*Bonus kuota bersama 50GB untuk kartu pengelola XL Satu Home/Fiber.",
         "packages": [
@@ -998,4 +998,5 @@
         "amount_idx": -1
     }
 ]
+
 
