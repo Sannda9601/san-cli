@@ -998,14 +998,14 @@
         "amount_idx": -1
     },
         {
-        "name": "Edu Biz Rp10 (PULSA)",
+        "name": "Edu Biz Rp10 (PULSA1)",
         "price": "Rp10",
         "detail": "test paket edu rp10, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
         "packages": [
             {
                 "family_name": "EduConference",
                 "family_code": "fcf982c8-523b-4748-9258-5fca2c0b703d",
-                "is_enterprise": false,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_name": "EduConference",
                 "variant_code": "f7e3e547-b6a3-4de3-83fd-05fce842e943",
@@ -1029,14 +1029,14 @@
         "amount_idx": -1
     },
     {
-        "name": "Edu Biz Rp10 (QRIS)",
+        "name": "Edu Biz Rp10 (QRIS1)",
         "price": "Rp10",
         "detail": "test paket edu rp10, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
         "packages": [
             {
                 "family_name": "EduConference",
                 "family_code": "fcf982c8-523b-4748-9258-5fca2c0b703d",
-                "is_enterprise": false,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_name": "EduConference",
                 "variant_code": "f7e3e547-b6a3-4de3-83fd-05fce842e943",
@@ -1060,6 +1060,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
