@@ -998,18 +998,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Edu Biz Rp10 (PULSA1)",
+        "name": "WeTV VIP 30 days",
         "price": "Rp10",
         "detail": "test paket edu rp10, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
         "packages": [
             {
-                "family_name": "EduConference",
-                "family_code": "fcf982c8-523b-4748-9258-5fca2c0b703d",
-                "is_enterprise": true,
+                "family_name": "WeTV VIP",
+                "family_code": "bb34204c-4608-4772-b6a6-5f43fa3e6185",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "EduConference",
-                "variant_code": "f7e3e547-b6a3-4de3-83fd-05fce842e943",
-                "option_name": "EduConference 30GB, Rp.10",
+                "variant_name": "WeTV VIP",
+                "variant_code": "0198b966-3072-4a25-8d81-8bf4282934db",
+                "option_name": "WeTV VIP 30 Days + 5GB",
                 "order": 1
             },
             {
@@ -1029,34 +1029,34 @@
         "amount_idx": -1
     },
     {
-        "name": "Edu Biz Rp10 (QRIS1)",
+        "name": "WeTV VIP 7 days",
         "price": "Rp10",
         "detail": "test paket edu rp10, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
         "packages": [
             {
-                "family_name": "EduConference",
-                "family_code": "fcf982c8-523b-4748-9258-5fca2c0b703d",
-                "is_enterprise": true,
+                "family_name": "WeTV VIP",
+                "family_code": "bb34204c-4608-4772-b6a6-5f43fa3e6185",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "EduConference",
-                "variant_code": "f7e3e547-b6a3-4de3-83fd-05fce842e943",
-                "option_name": "EduConference 30GB, Rp.10",
-                "order": 1
+                "variant_name": "WeTV VIP",
+                "variant_code": "0198b966-3072-4a25-8d81-8bf4282934db",
+                "option_name": "WeTV VIP 7 Days + 2GB",
+                "order": 2
             },
             {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "family_name": "",
+                "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
                 "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
+                "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
+                "option_name": "",
+                "order": 1
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 10,
-        "token_confirmation_idx": 1,
+        "overwrite_amount": 889760,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     }
 ]
