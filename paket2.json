@@ -966,6 +966,37 @@
         "amount_idx": -1
     },
     {
+        "name": "Masa Aktif Setahun youtube",
+        "price": "Rp0",
+        "detail": "Membuat masa aktif menjadi setahun, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
+        "packages": [
+            {
+                "family_name": "Bundling",
+                "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Bundling",
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
+                "option_name": "36GB Setahun YouTube",
+                "order": 3
+            },
+            {
+                "family_name": "",
+                "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
+                "option_name": "",
+                "order": 1
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 889750,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
         "name": "Masa Aktif 30 Hari",
         "price": "Rp1000 (refund)",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
@@ -998,7 +1029,7 @@
         "amount_idx": -1
     },
     {
-        "name": "WeTV VIP 30 days(test)",
+        "name": "WeTV VIP 30 days",
         "price": "Rp10",
         "detail": "test paket edu rp10, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
         "packages": [
@@ -1029,7 +1060,7 @@
         "amount_idx": -1
     },
     {
-        "name": "WeTV VIP 7 days(test)",
+        "name": "WeTV VIP 7 days",
         "price": "Rp10",
         "detail": "test paket edu rp10, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
         "packages": [
@@ -1060,4 +1091,3 @@
         "amount_idx": -1
     }
 ]
-
