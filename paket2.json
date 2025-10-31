@@ -998,7 +998,7 @@
         "amount_idx": -1
     },
     {
-        "name": "WeTV VIP 30 days",
+        "name": "WeTV VIP 30 days(test)",
         "price": "Rp10",
         "detail": "test paket edu rp10, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
         "packages": [
@@ -1024,12 +1024,12 @@
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 889760,
+        "overwrite_amount": 889750,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
     {
-        "name": "WeTV VIP 7 days",
+        "name": "WeTV VIP 7 days(test)",
         "price": "Rp10",
         "detail": "test paket edu rp10, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
         "packages": [
@@ -1055,8 +1055,9 @@
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 889760,
+        "overwrite_amount": 889750,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     }
 ]
+
