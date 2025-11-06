@@ -1090,7 +1090,7 @@
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
-        {
+    {
         "name": "Vidi Beats 20GB + Unlimited",
         "price": "Rp40000",
         "detail": "\nUnlimited WA & Spotify.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
@@ -1120,7 +1120,7 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
-            {
+    {
         "name": "Udemy 15GB",
         "price": "Rp7500",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
