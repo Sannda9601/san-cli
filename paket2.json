@@ -966,7 +966,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Masa Aktif Setahun 45GB Setahun",
+        "name": "Masa Aktif Setahun 45GB Setahun Bundle",
         "price": "Rp0",
         "detail": "Membuat masa aktif menjadi setahun, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
         "packages": [
@@ -1182,6 +1182,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
