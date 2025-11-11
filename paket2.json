@@ -974,7 +974,7 @@
                 "family_name": "Bundling",
                 "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
                 "is_enterprise": false,
-                "migration_type": "",
+                "migration_type": "NONE",
                 "variant_name": "Bundling",
                 "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
                 "option_name": "45GB Setahun",
@@ -1182,5 +1182,6 @@
         "amount_idx": -1
     }
 ]
+
 
 
