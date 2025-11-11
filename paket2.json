@@ -966,6 +966,37 @@
         "amount_idx": -1
     },
     {
+        "name": "Masa Aktif Setahun 45GB Setahun",
+        "price": "Rp0",
+        "detail": "Membuat masa aktif menjadi setahun, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
+        "packages": [
+            {
+                "family_name": "Bundling",
+                "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
+                "is_enterprise": false,
+                "migration_type": "",
+                "variant_name": "Bundling",
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
+                "option_name": "45GB Setahun",
+                "order": 2
+            },
+            {
+                "family_name": "",
+                "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
+                "option_name": "",
+                "order": 1
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 889750,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
         "name": "Masa Aktif Setahun 36GB Setahun",
         "price": "Rp0",
         "detail": "Membuat masa aktif menjadi setahun, otomatis perbarui tiap bulan.\nSupported payment: Balance/pulsa.",
@@ -1151,4 +1182,5 @@
         "amount_idx": -1
     }
 ]
+
 
