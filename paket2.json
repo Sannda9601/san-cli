@@ -1223,7 +1223,7 @@
                 "migration_type": null,
                 "variant_code": "2f1fb6a4-b7d1-4966-9214-8c1664e3a023",
                 "option_name": "",
-                "order": 1
+                "order": 2
             },
             {
                 "family_name": "QRIS D 0",
@@ -1242,9 +1242,3 @@
         "amount_idx": -1
     }
 ]
-
-
-
-
-
-
