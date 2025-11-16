@@ -1240,5 +1240,37 @@
         "overwrite_amount": 56000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
+    },
+    {
+        "name": "Swadaya Unlimited Gojek🤫",
+        "price": "Rp20.000",
+        "detail": "\nUnlimited gojek driver & waze\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Swadaya Xlalu Untukmu",
+                "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Swadaya Xlalu Untukmu",
+                "variant_code": "84585d90-cc35-40af-be04-3ccde3732035",
+                "option_name": "Swadaya XLalu Untukmu 4GB",
+                "order": 3
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 20000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
     }
 ]
+
