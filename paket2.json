@@ -1272,17 +1272,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Sinergi 22GB",
+        "name": "Sinergi 22GB - unlimited test",
         "price": "Rp85000",
         "detail": "\nUnlimited conferense & wa line \nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "",
+                "family_name": "Sinergi Packages",
                 "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
                 "is_enterprise": false,
-                "migration_type": null,
+                "migration_type": "NONE",
+                "variant_name": "Sinergi Packages",
                 "variant_code": "3fecee52-6b42-4d44-b6da-73553d8a1d30",
-                "option_name": "",
+                "option_name": "Sinergi 22GB, Rp 85,000",
                 "order": 3
             },
             {
