@@ -1182,7 +1182,7 @@
         "amount_idx": -1
     },
     {
-        "name": "New - Extra Combo 🤫",
+        "name": "New - Extra Combo (tidak unli)",
         "price": "Rp59900",
         "detail": "\nTesting Purchase Paket\nSupported payment: E-wallet & QRIS.",
         "packages": [
@@ -1212,7 +1212,7 @@
         "amount_idx": -1
     },
     {
-        "name": "22GB for 2 Members - unlimited🤫",
+        "name": "22GB for 2 Members (tidak unli)",
         "price": "Rp56000",
         "detail": "\nUnlimited Noice, WhatsApp, Map, Conference, Education, Work\nSupported payment: E-wallet & QRIS.",
         "packages": [
@@ -1270,8 +1270,35 @@
         "overwrite_amount": 20000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
+    },
+    {
+        "name": "Sinergi 22GB",
+        "price": "Rp85000",
+        "detail": "\nUnlimited conferense & wa line \nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "",
+                "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
+                "is_enterprise": false,
+                "migration_type": null,
+                "variant_code": "3fecee52-6b42-4d44-b6da-73553d8a1d30",
+                "option_name": "",
+                "order": 3
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 85000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
     }
 ]
-
-
-
