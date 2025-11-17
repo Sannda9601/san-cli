@@ -1272,7 +1272,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Sinergi 22GB - unlimited test",
+        "name": "Sinergi 22GB - testing Unlimited",
         "price": "Rp85000",
         "detail": "\nUnlimited conferense & wa line \nSupported payment: E-wallet & QRIS.",
         "packages": [
@@ -1303,4 +1303,5 @@
         "amount_idx": -1
     }
 ]
+
 
