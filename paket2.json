@@ -392,7 +392,7 @@
         "amount_idx": -1
     },
     {
-        "name": "BIZ Manufacture",
+        "name": "BIZ ManufacturE (Lite)",
         "price": "Rp 35000",
         "detail": "unlimited whatsapp line bizz",
         "packages": [
@@ -400,18 +400,20 @@
                 "family_name": "BIZ Manufacture",
                 "family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
                 "is_enterprise": true,
+                "migration_type": "NONE",
                 "variant_name": "BIZ Manufacture",
+                "variant_code": "3f81d8a3-9d11-4c5c-8c79-c295802746dc",
                 "option_name": "BIZ Lite",
                 "order": 1
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
-                "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -1303,6 +1305,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
