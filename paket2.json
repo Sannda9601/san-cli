@@ -1251,7 +1251,6 @@
                 "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "Swadaya Xlalu Untukmu",
                 "variant_code": "84585d90-cc35-40af-be04-3ccde3732035",
                 "option_name": "Swadaya XLalu Untukmu 4GB",
                 "order": 3
@@ -1304,6 +1303,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
