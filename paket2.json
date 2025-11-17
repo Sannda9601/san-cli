@@ -1254,7 +1254,7 @@
                 "variant_name": "Swadaya Xlalu Untukmu",
                 "variant_code": "84585d90-cc35-40af-be04-3ccde3732035",
                 "option_name": "Swadaya XLalu Untukmu 4GB",
-                "order": 3,
+                "order": 3
             },
             {
                 "family_name": "QRIS D 0",
@@ -1304,6 +1304,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
