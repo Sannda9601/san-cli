@@ -1242,7 +1242,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Swadaya Unlimited Gojek Waze testing Unli",
+        "name": "Swadaya Unlimited Gojek Waze testing Purchase",
         "price": "Rp20000",
         "detail": "\nUnlimited gojek driver & waze\nSupported payment: E-wallet & QRIS.",
         "packages": [
@@ -1303,6 +1303,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
