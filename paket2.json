@@ -1242,18 +1242,19 @@
         "amount_idx": -1
     },
     {
-        "name": "Swadaya Unlimited Gojek Waze testing",
+        "name": "Swadaya Unlimited Gojek Waze testing Unli",
         "price": "Rp20000",
         "detail": "\nUnlimited gojek driver & waze\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "",
+                "family_name": "Swadaya Xlalu Untukmu",
                 "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
-                "is_enterprise": true,
+                "is_enterprise": false,
                 "migration_type": "NONE",
+                "variant_name": "Swadaya Xlalu Untukmu",
                 "variant_code": "84585d90-cc35-40af-be04-3ccde3732035",
-                "option_name": "",
-                "order": 3
+                "option_name": "Swadaya XLalu Untukmu 4GB",
+                "order": 3,
             },
             {
                 "family_name": "QRIS D 0",
@@ -1303,6 +1304,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
