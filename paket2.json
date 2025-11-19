@@ -636,7 +636,7 @@
     },
     {
         "name": "myPRIO Silver X 1Bln",
-        "price": "Rp 70000",
+        "price": "Rp 95000",
         "detail": "Unlimited WhatApp, LINE, Blibli.com, Lazada, Shopee, Tokopedia, Grab, Gojek, Traveloka.\nDWYOR\nSupported payment: QRIS & EWALLET.",
         "packages": [
             {
@@ -660,7 +660,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 70000,
+        "overwrite_amount": 95000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -1213,3 +1213,4 @@
         "amount_idx": -1
     }
 ]
+
