@@ -302,7 +302,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Hyfe 5GB 7 hari",
+        "name": "Coba Hyfe 5GB 7 hari",
         "price": "Rp 0",
         "detail": "Hyfe trial Fup 5GB masa aktif 7 hari. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
         "packages": [
@@ -316,12 +316,12 @@
                 "order": 27
             },
             {
-                "family_name": "",
+                "family_name": "XL PASS",
                 "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
                 "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-                "option_name": "",
+                "option_name": "XL PASS 30 days",
                 "order": 1
             }
         ],
@@ -1213,4 +1213,3 @@
         "amount_idx": -1
     }
 ]
-
