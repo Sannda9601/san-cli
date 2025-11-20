@@ -1115,10 +1115,10 @@
                 "order": 11
             }
         ],
-        "payment_for": "BUY_PACKAGE",
+        "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 7500,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
@@ -1184,7 +1184,7 @@
     {
         "name": "Sinergi 22GB - testing Unlimited",
         "price": "Rp85000",
-        "detail": "\nUnlimited conferense & wa line \nSupported payment: E-wallet & QRIS.",
+        "detail": "\nUnlimited conferense & wa line \nSupported payment: Balance",
         "packages": [
             {
                 "family_name": "Sinergi Packages",
@@ -1197,20 +1197,21 @@
                 "order": 3
             },
             {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "family_name": "XL PASS",
+                "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
                 "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
+                "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
+                "option_name": "XL PASS 30 days",
+                "order": 1
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 85000,
-        "token_confirmation_idx": 1,
+        "overwrite_amount": 974750,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     }
 ]
+
 
