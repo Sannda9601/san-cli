@@ -1182,7 +1182,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Bonus Akrab S Rp.0",
+        "name": "Purchase Bonus Akrab S Rp.0",
         "price": "Rp1200",
         "detail": "\nBonus Paket Akrab\nSupported payment: E-wallet & QRIS.",
         "packages": [
@@ -1194,7 +1194,7 @@
                 "variant_name": "PRIO Package",
                 "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
                 "option_name": "PRIO Komplit",
-                "order": 19
+                "order": 31
             },
             {
                 "family_name": "Night Quota",
@@ -1210,7 +1210,7 @@
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 1200,
-        "token_confirmation_idx": 1,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     }
 ]
