@@ -1182,7 +1182,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Purchase Bonus Akrab S Rp.0",
+        "name": "TEST Purchase Bonus Akrab S Rp.0",
         "price": "Rp1200",
         "detail": "\nBonus Paket Akrab\nSupported payment: E-wallet & QRIS.",
         "packages": [
@@ -1214,4 +1214,5 @@
         "amount_idx": -1
     }
 ]
+
 
