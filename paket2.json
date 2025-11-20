@@ -1210,7 +1210,8 @@
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 1200,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     }
 ]
+
