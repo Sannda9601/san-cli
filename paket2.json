@@ -1182,36 +1182,35 @@
         "amount_idx": -1
     },
     {
-        "name": "Sinergi 22GB - testing Unlimited",
-        "price": "Rp85000",
-        "detail": "\nUnlimited conferense & wa line \nSupported payment: Balance",
+        "name": "Bonus Akrab S Rp.0",
+        "price": "Rp1200",
+        "detail": "\nBonus Paket Akrab\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Sinergi Packages",
-                "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_name": "Sinergi Packages",
-                "variant_code": "3fecee52-6b42-4d44-b6da-73553d8a1d30",
-                "option_name": "Sinergi 22GB, Rp 85,000",
-                "order": 3
+                "family_name": "PRIO Package",
+                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+                "is_enterprise": false,
+                "migration_type": "PRIOH_TO_PRIO",
+                "variant_name": "PRIO Package",
+                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
+                "option_name": "PRIO Komplit",
+                "order": 19
             },
             {
-                "family_name": "XL PASS",
-                "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-                "is_enterprise": true,
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-                "option_name": "XL PASS 30 days",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
                 "order": 1
             }
         ],
-        "payment_for": "BUY_PACKAGE",
+        "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 974750,
-        "token_confirmation_idx": 0,
+        "overwrite_amount": 1200,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     }
 ]
-
-
