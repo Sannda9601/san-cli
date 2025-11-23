@@ -1248,7 +1248,7 @@
     },
     {
         "name": "BIZ STARTER test",
-        "price": "Rp49",
+        "price": "Rp 49.000",
         "detail": "\nPaket Akrab 3gb syarat addon\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -1280,6 +1280,7 @@
     }
 ]
 ]
+
 
 
 
