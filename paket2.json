@@ -1245,8 +1245,42 @@
         "overwrite_amount": 26200,
         "token_confirmation_idx": 1,
         "amount_idx": -1
+    },
+    {
+        "name": "BIZ STARTER test",
+        "price": "Rp49",
+        "detail": "\nPaket Akrab 3gb syarat addon\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "BIZ Prepaid",
+                "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "BIZ Prepaid",
+                "variant_code": "d0adce55-7d0e-4f60-89c5-0847810824ce",
+                "option_name": "BIZ Starter",
+                "order": 1
+            },
+            {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 50200,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
     }
 ]
+]
+
 
 
 
