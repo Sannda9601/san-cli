@@ -1226,8 +1226,7 @@
                 "variant_name": "Reguler",
                 "variant_code": "63f1a0c3-cf0a-41a4-a4ca-654a363ad99e",
                 "option_name": "5GB",
-                "order": 20,
-                "price": 25000
+                "order": 20
             },
             {
                 "family_name": "Night Quota",
@@ -1279,6 +1278,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
