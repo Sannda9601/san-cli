@@ -346,13 +346,14 @@
                 "order": 5
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -376,18 +377,19 @@
                 "order": 6
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 31000,
+        "overwrite_amount": 31200,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -437,18 +439,19 @@
                 "order": 155
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 26000,
+        "overwrite_amount": 26200,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
@@ -469,13 +472,14 @@
                 "order": 4
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -499,18 +503,19 @@
                 "order": 150
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 91750,
+        "overwrite_amount": 91950,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
@@ -529,18 +534,19 @@
                 "order": 153
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 130000,
+        "overwrite_amount": 130200,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
@@ -559,18 +565,19 @@
                 "order": 157
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 180000,
+        "overwrite_amount": 180200,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
@@ -619,18 +626,19 @@
                 "order": 1
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 6000,
+        "overwrite_amount": 6200,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -661,36 +669,6 @@
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 95000,
-        "token_confirmation_idx": 0,
-        "amount_idx": -1
-    },
-    {
-        "name": "Masa Aktif 30 Hari",
-        "price": "Rp1000 (refund)",
-        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
-        "packages": [
-            {
-                "family_name": "Akrab",
-                "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
-                "is_enterprise": false,
-                "variant_name": "Akrab",
-                "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
-                "option_name": "19GB for 2 Members",
-                "order": 17
-            },
-            {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
-                "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 1000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -799,18 +777,19 @@
                 "order": 3
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 43000,
+        "overwrite_amount": 43200,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
@@ -829,18 +808,19 @@
                 "order": 4
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 53000,
+        "overwrite_amount": 53200,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
@@ -907,19 +887,19 @@
         "amount_idx": -1
     },
     {
-        "name": "Masa Aktif 30 Hari",
+        "name": "New - Masa Aktif 30 Hari",
         "price": "Rp0",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance/pulsa.",
         "packages": [
             {
                 "family_name": "Akrab",
                 "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
-                "is_enterprise": false,
+                "is_enterprise": null,
                 "migration_type": "NONE",
                 "variant_name": "Akrab",
                 "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
-                "option_name": "260GB for 4 Members",
-                "order": 17
+                "option_name": "140GB for 4 Members",
+                "order": 18
             },
             {
                 "family_name": "XL PASS",
@@ -935,6 +915,38 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 889750,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "New - Masa Aktif 30 Hari QRIS",
+        "price": "Rp1000 (refund)",
+        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Akrab",
+                "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
+                "is_enterprise": null,
+                "migration_type": "NONE",
+                "variant_name": "Akrab",
+                "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
+                "option_name": "140GB for 4 Members",
+                "order": 18
+            },
+            {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 1200,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -1050,19 +1062,19 @@
                 "order": 17
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 1000,
+        "overwrite_amount": 1200,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -1281,6 +1293,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
