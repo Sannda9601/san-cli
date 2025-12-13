@@ -46,18 +46,19 @@
                 "order": 4
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 1000,
+        "overwrite_amount": 1200,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -166,13 +167,14 @@
                 "order": 3
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -196,13 +198,14 @@
                 "order": 4
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -1203,6 +1206,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
