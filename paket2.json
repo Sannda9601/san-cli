@@ -890,12 +890,13 @@
                 "order": 14
             },
             {
-                "family_name": "",
+                "family_name": "XL PASS",
                 "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-                "is_enterprise": true,
+                "is_enterprise": null,
                 "migration_type": "NONE",
+                "variant_name": "XL PASS",
                 "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-                "option_name": "",
+                "option_name": "XL PASS 30 days",
                 "order": 1
             }
         ],
@@ -921,12 +922,13 @@
                 "order": 17
             },
             {
-                "family_name": "",
+                "family_name": "XL PASS",
                 "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-                "is_enterprise": true,
+                "is_enterprise": null,
                 "migration_type": "NONE",
+                "variant_name": "XL PASS",
                 "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-                "option_name": "",
+                "option_name": "XL PASS 30 days",
                 "order": 1
             }
         ],
@@ -952,12 +954,13 @@
                 "order": 2
             },
             {
-                "family_name": "",
+                "family_name": "XL PASS",
                 "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-                "is_enterprise": true,
+                "is_enterprise": null,
                 "migration_type": "NONE",
+                "variant_name": "XL PASS",
                 "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-                "option_name": "",
+                "option_name": "XL PASS 30 days",
                 "order": 1
             }
         ],
@@ -983,12 +986,13 @@
                 "order": 4
             },
             {
-                "family_name": "",
+                "family_name": "XL PASS",
                 "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-                "is_enterprise": true,
+                "is_enterprise": null,
                 "migration_type": "NONE",
+                "variant_name": "XL PASS",
                 "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-                "option_name": "",
+                "option_name": "XL PASS 30 days",
                 "order": 1
             }
         ],
@@ -1014,12 +1018,13 @@
                 "order": 3
             },
             {
-                "family_name": "",
+                "family_name": "XL PASS",
                 "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-                "is_enterprise": true,
+                "is_enterprise": null,
                 "migration_type": "NONE",
+                "variant_name": "XL PASS",
                 "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-                "option_name": "",
+                "option_name": "XL PASS 30 days",
                 "order": 1
             }
         ],
@@ -1276,6 +1281,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
