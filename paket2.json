@@ -1,31 +1,33 @@
 [
     {
-        "name": "Masa Aktif 45 Hari + 50GB* (coid)",
+        "name": "Masa Aktif 45 Hari + 50GB*",
         "price": "Rp1000 (refund)",
         "detail": "Membuat masa aktif menjadi 45 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.\n\n*Bonus kuota bersama 50GB untuk kartu pengelola XL Satu Home/Fiber.",
         "packages": [
             {
                 "family_name": "Kuota Bersama",
                 "family_code": "d018a3ad-172f-433c-b291-f574f4b6fbad",
-                "is_enterprise": false,
+                "is_enterprise": null,
+                "migration_type": "NONE",
                 "variant_name": "Kuota Bersama",
                 "variant_code": "8a5965c2-d29c-48aa-8175-0ef53745d8fa",
                 "option_name": "Kuota HP Sekeluarga 50GB",
-                "order": 2
+                "order": 5
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "migration_type": "NONE",
+                "variant_name": "Xtra Kuota",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "Night 1GB",
+                "order": 1
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 1000,
+        "overwrite_amount": 1200,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
@@ -1263,6 +1265,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
