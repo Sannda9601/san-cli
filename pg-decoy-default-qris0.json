@@ -1,10 +1,12 @@
 {
     "family_name": "Kuota Aplikasi BIZ 2GB",
     "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-    "is_enterprise": true,
+    "is_enterprise": null,
     "migration_type": "NONE",
+    "variant_name": "Bonus Kuota Aplikasi BIZ 2GB",
     "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-    "option_name": "Vidio 2GB",
-    "order": 11,
+    "option_name": "Facebook 2GB",
+    "order": 9,
     "price": 0
 }
+
