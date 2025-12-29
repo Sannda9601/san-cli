@@ -1230,7 +1230,7 @@
                 "variant_code": "788965e2-e28f-4e47-94a1-26534887741b",
                 "option_name": "TikTok 10GB",
                 "order": 9
-            },
+            }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
@@ -1239,6 +1239,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
