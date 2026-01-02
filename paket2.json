@@ -808,13 +808,13 @@
             {
                 "family_name": "Akrab",
                 "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
-                "is_enterprise": null,
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "Akrab",
                 "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
-                "option_name": "140GB for 4 Members",
-                "order": 18
-            },
+                "option_name": "Akrab Unlimited 4 Members",
+                "order": 12
+            }
             {
                 "family_name": "XL PASS",
                 "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
@@ -1239,6 +1239,7 @@
         "amount_idx": -1
     }
 ]
+
 
 
 
