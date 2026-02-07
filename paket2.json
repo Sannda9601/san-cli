@@ -1237,6 +1237,49 @@
         "overwrite_amount": 6000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
-    }
+    },
+    {
+        "name": "xcp 5GB + Addon XCP 10GB",
+        "price": "Rp 36000",
+        "detail": "\nAddon IG + TIKTOK 10gb syarat Sudah Aktif Paket XCP\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": null,
+                "migration_type": "NONE",
+                "variant_name": "Reguler",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "5GB",
+                "order": 10
+            },
+            {
+                "family_name": "Kuota Aplikasi Xtra Combo Plus 10GB",
+                "family_code": "7658c955-a0b9-405f-bb17-de7f43d1a946",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Bonus Xtra Combo Plus 10GB",
+                "variant_code": "788965e2-e28f-4e47-94a1-26534887741b",
+                "option_name": "Instagram 10GB",
+                "order": 6
+            },
+            {
+                "family_name": "Kuota Aplikasi Xtra Combo Plus 10GB",
+                "family_code": "7658c955-a0b9-405f-bb17-de7f43d1a946",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Bonus Xtra Combo Plus 10GB",
+                "variant_code": "788965e2-e28f-4e47-94a1-26534887741b",
+                "option_name": "TikTok 10GB",
+                "order": 9
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 36000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    }    
 ]
+
 
